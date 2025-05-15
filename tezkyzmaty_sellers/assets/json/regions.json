@@ -1,0 +1,443 @@
+[
+  {
+    "districts": [
+      {
+        "id": 1,
+        "title": "Аламудунский район"
+      },
+      {
+        "id": 2,
+        "title": "Жайылский район"
+      },
+      {
+        "id": 3,
+        "title": "Кеминский район"
+      },
+      {
+        "id": 4,
+        "title": "Московский район"
+      },
+      {
+        "id": 5,
+        "title": "Панфиловский район"
+      },
+      {
+        "id": 6,
+        "title": "Сокулукский район"
+      },
+      {
+        "id": 7,
+        "title": "Чуйский район"
+      },
+      {
+        "id": 8,
+        "title": "Ысык-Атинский район"
+      }
+    ],
+    "region_title": "Чуй",
+    "region_id": 1,
+    "cities": [
+      {
+        "district_id": 1,
+        "id": 5,
+        "title": "с. Лебединовка"
+      },
+      {
+        "district_id": 1,
+        "id": 6,
+        "title": "с. Военно-Антоновка"
+      },
+      {
+        "district_id": null,
+        "id": 4,
+        "title": "г. Кант"
+      },
+      {
+        "district_id": null,
+        "id": 3,
+        "title": "г. Кара-Балта"
+      },
+      {
+        "district_id": null,
+        "id": 2,
+        "title": "г. Токмок"
+      },
+      {
+        "district_id": null,
+        "id": 1,
+        "title": "г. Бишкек"
+      },
+      {
+        "district_id": 1,
+        "id": 7,
+        "title": "с. Таш-Мойнок"
+      },
+      {
+        "district_id": 1,
+        "id": 8,
+        "title": "с. Кашка-Суу"
+      },
+      {
+        "district_id": 1,
+        "id": 9,
+        "title": "с. Байтик"
+      },
+      {
+        "district_id": 1,
+        "id": 10,
+        "title": "с. Гроздь"
+      },
+      {
+        "district_id": 1,
+        "id": 11,
+        "title": "с. Арашан"
+      },
+      {
+        "district_id": 1,
+        "id": 12,
+        "title": "с. Токбай"
+      },
+      {
+        "district_id": 1,
+        "id": 13,
+        "title": "с. Беш-Кюнгей"
+      },
+      {
+        "district_id": 1,
+        "id": 14,
+        "title": "с. Таш-Добо"
+      },
+      {
+        "district_id": 2,
+        "id": 15,
+        "title": "с. Сосновка"
+      },
+      {
+        "district_id": 2,
+        "id": 16,
+        "title": "с. Полтавка"
+      },
+      {
+        "district_id": 2,
+        "id": 17,
+        "title": "с. Сары-Булак"
+      },
+      {
+        "district_id": 2,
+        "id": 18,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 2,
+        "id": 19,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 2,
+        "id": 20,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 2,
+        "id": 21,
+        "title": "с. Ак-Бешим"
+      },
+      {
+        "district_id": 2,
+        "id": 22,
+        "title": "с. Ак-Тюз"
+      },
+      {
+        "district_id": 3,
+        "id": 23,
+        "title": "с. Боролдой"
+      },
+      {
+        "district_id": 3,
+        "id": 24,
+        "title": "с. Кызыл-Суу"
+      },
+      {
+        "district_id": 3,
+        "id": 25,
+        "title": "с. Чым-Коргон"
+      },
+      {
+        "district_id": 3,
+        "id": 26,
+        "title": "с. Чолпон"
+      },
+      {
+        "district_id": 3,
+        "id": 27,
+        "title": "с. Чон-Кемин"
+      },
+      {
+        "district_id": 3,
+        "id": 28,
+        "title": "с. Шабдан"
+      },
+      {
+        "district_id": 3,
+        "id": 29,
+        "title": "с. Кызыл-Байрак"
+      },
+      {
+        "district_id": 3,
+        "id": 30,
+        "title": "с. Кызыл-Ой"
+      },
+      {
+        "district_id": 3,
+        "id": 31,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 4,
+        "id": 32,
+        "title": "с. Беловодское"
+      },
+      {
+        "district_id": 4,
+        "id": 33,
+        "title": "с. Александровка"
+      },
+      {
+        "district_id": 4,
+        "id": 34,
+        "title": "с. Ивановка"
+      },
+      {
+        "district_id": 4,
+        "id": 35,
+        "title": "с. Калинино"
+      },
+      {
+        "district_id": 4,
+        "id": 36,
+        "title": "с. Кайынды"
+      },
+      {
+        "district_id": 4,
+        "id": 37,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 4,
+        "id": 38,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 4,
+        "id": 39,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 4,
+        "id": 40,
+        "title": "с. Кызыл-Байрак"
+      },
+      {
+        "district_id": 4,
+        "id": 41,
+        "title": "с. Кызыл-Суу"
+      },
+      {
+        "district_id": 5,
+        "id": 42,
+        "title": "г. Каинды"
+      },
+      {
+        "district_id": 5,
+        "id": 43,
+        "title": "с. Панфиловка"
+      },
+      {
+        "district_id": 5,
+        "id": 44,
+        "title": "с. Тельман"
+      },
+      {
+        "district_id": 5,
+        "id": 45,
+        "title": "с. Чалдовар"
+      },
+      {
+        "district_id": 5,
+        "id": 46,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 5,
+        "id": 47,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 5,
+        "id": 48,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 5,
+        "id": 49,
+        "title": "с. Кызыл-Байрак"
+      },
+      {
+        "district_id": 5,
+        "id": 50,
+        "title": "с. Кызыл-Суу"
+      },
+      {
+        "district_id": 6,
+        "id": 51,
+        "title": "с. Сокулук"
+      },
+      {
+        "district_id": 6,
+        "id": 52,
+        "title": "г. Шопоков"
+      },
+      {
+        "district_id": 6,
+        "id": 53,
+        "title": "с. Военно-Антоновка"
+      },
+      {
+        "district_id": 6,
+        "id": 54,
+        "title": "с. Таш-Добо"
+      },
+      {
+        "district_id": 6,
+        "id": 55,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 6,
+        "id": 56,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 6,
+        "id": 57,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 6,
+        "id": 58,
+        "title": "с. Кызыл-Байрак"
+      },
+      {
+        "district_id": 6,
+        "id": 59,
+        "title": "с. Кызыл-Суу"
+      },
+      {
+        "district_id": 7,
+        "id": 60,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 7,
+        "id": 61,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 7,
+        "id": 62,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 7,
+        "id": 63,
+        "title": "с. Кызыл-Байрак"
+      },
+      {
+        "district_id": 7,
+        "id": 64,
+        "title": "с. Кызыл-Суу"
+      },
+      {
+        "district_id": 7,
+        "id": 65,
+        "title": "с. Кызыл-Ой"
+      },
+      {
+        "district_id": 7,
+        "id": 66,
+        "title": "с. Кызыл-Сай"
+      },
+      {
+        "district_id": 7,
+        "id": 67,
+        "title": "с. Кызыл-Жар"
+      },
+      {
+        "district_id": 8,
+        "id": 68,
+        "title": "с. Ичке-Суу"
+      },
+      {
+        "district_id": 8,
+        "id": 69,
+        "title": "с. Орловка"
+      },
+      {
+        "district_id": 8,
+        "id": 70,
+        "title": "с. Кызыл-Туу"
+      },
+      {
+        "district_id": 8,
+        "id": 71,
+        "title": "с. Кызыл-Аскер"
+      },
+      {
+        "district_id": 8,
+        "id": 72,
+        "title": "с. Кызыл-Октябрь"
+      },
+      {
+        "district_id": 8,
+        "id": 73,
+        "title": "с. Кызыл-Байрак"
+      }
+    ]
+  },
+  {
+    "districts": [],
+    "region_title": "Иссык-Куль",
+    "region_id": 2,
+    "cities": []
+  },
+  {
+    "districts": [],
+    "region_title": "Ош",
+    "region_id": 3,
+    "cities": []
+  },
+  {
+    "districts": [],
+    "region_title": "Джалал-Абад",
+    "region_id": 4,
+    "cities": []
+  },
+  {
+    "districts": [],
+    "region_title": "Талас",
+    "region_id": 5,
+    "cities": []
+  },
+  {
+    "districts": [],
+    "region_title": "Баткен",
+    "region_id": 6,
+    "cities": []
+  },
+  {
+    "districts": [],
+    "region_title": "Нарын",
+    "region_id": 7,
+    "cities": []
+  }
+]
